@@ -1,3 +1,11 @@
+/*
+Enter the string: study
+s
+st
+stu
+stud
+study
+*/
 #include<stdio.h>
 
 int main(){
@@ -19,11 +27,3 @@ int main(){
     printf("\n");
     } 
 }
-/*
-Enter the string: study
-s
-st
-stu
-stud
-study
-*/

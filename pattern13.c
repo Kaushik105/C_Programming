@@ -1,3 +1,15 @@
+/*
+Enter the string: study
+s
+st
+stu
+stud
+study
+stud
+stu
+st
+s
+*/
 #include<stdio.h>
 
 int main(){
@@ -22,15 +34,3 @@ int main(){
     }
 
 }
-/*
-Enter the string: study
-s
-st
-stu
-stud
-study
-stud
-stu
-st
-s
-*/
