@@ -15,7 +15,7 @@ int main()
         if(y == 'a' || y == 'A' || y == 'e' || y == 'E' || y == 'i' || y == 'I' || y == 'o' || y == 'O' || y == 'u' || y == 'U'){
                 c++;
             }
-        else if(y != ' '){
+        else {
             v++;
 
         }
